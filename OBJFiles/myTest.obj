@@ -1,0 +1,9 @@
+test# Blender v2.61 (sub 0) OBJ File: ''
+# www.blender.org
+g Test
+v 0 0 0
+v 0.5 0 0
+v 0.5 0.5 0
+s off
+f 1 2 3 
+
